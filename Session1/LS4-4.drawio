@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.2">
   <diagram name="Page-1" id="_Jh96LYEsBv365fBikHo">
-    <mxGraphModel>
+    <mxGraphModel dx="2242" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="T8k35Pk7R2FtXLPscu9g-428" edge="1" parent="1" source="T8k35Pk7R2FtXLPscu9g-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" target="T8k35Pk7R2FtXLPscu9g-425" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T8k35Pk7R2FtXLPscu9g-2" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="DocGia&lt;div&gt;Ma Doc Gia(FK)&lt;/div&gt;&lt;div&gt;HoTen&lt;/div&gt;&lt;div&gt;NgaySinh&lt;/div&gt;&lt;div&gt;DiaChi&lt;/div&gt;" vertex="1">
+          <mxGeometry height="215" width="129" x="-984" y="336" as="geometry" />
+        </mxCell>
+        <mxCell id="T8k35Pk7R2FtXLPscu9g-429" edge="1" parent="1" source="T8k35Pk7R2FtXLPscu9g-425" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" target="T8k35Pk7R2FtXLPscu9g-426" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T8k35Pk7R2FtXLPscu9g-425" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Muon" vertex="1">
+          <mxGeometry height="40" width="100" x="-811" y="423.5" as="geometry" />
+        </mxCell>
+        <mxCell id="T8k35Pk7R2FtXLPscu9g-426" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Sach&lt;div&gt;MaSach(PK)&lt;/div&gt;&lt;div&gt;TenSach&lt;/div&gt;&lt;div&gt;TacGia&lt;/div&gt;" vertex="1">
+          <mxGeometry height="214" width="130" x="-667" y="337" as="geometry" />
+        </mxCell>
+        <mxCell id="T8k35Pk7R2FtXLPscu9g-430" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;autosize=1;resizable=0;" value="N" vertex="1">
+          <mxGeometry height="31" width="30" x="-846" y="409" as="geometry" />
+        </mxCell>
+        <mxCell id="T8k35Pk7R2FtXLPscu9g-431" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;autosize=1;resizable=0;" value="N" vertex="1">
+          <mxGeometry height="31" width="30" x="-704" y="409" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
